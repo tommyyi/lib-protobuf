@@ -1,0 +1,11 @@
+syntax = "proto2";
+option java_package = "net.angrycode.bean";
+package bean;
+
+import "MaterialMeta.proto";
+
+message Ad {
+    required string ad_id = 1;
+    required MaterialMeta creative = 2;
+    optional uint64 bid_price = 3;
+}

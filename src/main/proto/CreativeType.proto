@@ -1,0 +1,12 @@
+syntax = "proto2";
+option java_package = "net.angrycode.bean";
+package bean;
+
+enum CreativeType {
+        TEXT = 1;
+        IMAGE = 2;
+        GIF = 3;
+        HTML = 4;
+        VIDEO = 5;
+        TEXT_ICON = 6;
+}

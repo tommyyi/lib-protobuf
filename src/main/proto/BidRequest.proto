@@ -1,0 +1,17 @@
+syntax = "proto2";
+option java_package = "net.angrycode.bean";
+package bean;
+
+import "App.proto";
+import "Device.proto";
+import "Geo.proto";
+import "AdSlot.proto";
+
+message BidRequest {
+    required string request_id = 1;
+    required string api_version = 2;
+    required App app = 3;
+    required Device device = 4;
+    required Geo geo = 5;
+    repeated AdSlot adslots = 6;
+}

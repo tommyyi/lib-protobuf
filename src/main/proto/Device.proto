@@ -1,0 +1,21 @@
+syntax = "proto2";
+option java_package = "net.angrycode.bean";
+package bean;
+
+import "DeviceType.proto";
+import "OsType.proto";
+import "ConnectionType.proto";
+
+message Device {
+    required string did = 1;
+    required DeviceType type = 2;
+    required OsType os = 3;
+    required string os_version = 4;
+    required string vendor = 5;
+    required string model = 6;
+    required string ua = 7;
+    required string ip = 8;
+    optional string language = 9;
+    required ConnectionType conn_type = 10;
+    required string mac = 11;
+}

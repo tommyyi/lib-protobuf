@@ -1,0 +1,13 @@
+syntax = "proto2";
+option java_package = "net.angrycode.bean";
+package bean;
+
+import "Ad.proto";
+
+message BidResponse {
+    required string request_id = 1;
+    optional Ad ads = 2;
+    optional uint32 processing_time_ms = 3;
+    optional int64 status_code = 4;
+    required uint32 expiration_time = 5;
+}

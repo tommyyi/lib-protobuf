@@ -1,0 +1,13 @@
+syntax = "proto2";
+option java_package = "net.angrycode.bean";
+package bean;
+
+enum InteractionType {
+        NO_INTERACTION = 1;
+        SURFING = 2;
+        IN_APP = 3;
+        DOWLOAD = 4;
+        DIALING = 5;
+        MESSAGE = 6;
+        EMAIL = 7;
+}

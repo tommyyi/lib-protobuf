@@ -1,0 +1,7 @@
+syntax = "proto2";
+option java_package = "net.angrycode.bean";
+package bean;
+message Size {
+    required uint32 width = 1;
+    required uint32 height = 2;
+}

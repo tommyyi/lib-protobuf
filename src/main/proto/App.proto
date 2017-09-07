@@ -1,0 +1,9 @@
+syntax = "proto2";
+option java_package = "net.angrycode.bean";
+package bean;
+message App {
+    required string id = 1;
+    required string name = 2;
+    required string version = 3;
+    optional bool is_paid_app = 4;
+}

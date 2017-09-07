@@ -1,0 +1,23 @@
+syntax = "proto2";
+option java_package = "net.angrycode.bean";
+package bean;
+
+import "CreativeType.proto";
+import "InteractionType.proto";
+import "Image.proto";
+
+message MaterialMeta {
+    required CreativeType creative_type = 1;
+    required InteractionType interaction_type = 2;
+    required Image image = 3;
+    required string target_url = 4;
+    optional string download_url = 5;
+    required string title = 6;
+    optional string description = 7;
+    optional string app_name = 8;
+    optional string package_name = 9;
+    repeated string win_notice_url = 10;
+    repeated string show_url = 11;
+    repeated string click_url = 12;
+    optional string ext = 13;
+}

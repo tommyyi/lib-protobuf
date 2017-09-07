@@ -1,0 +1,10 @@
+syntax = "proto2";
+option java_package = "net.angrycode.bean";
+package bean;
+enum AdType {
+    BANNER = 1;
+    INTERSTITIAL = 2;
+    SPLASH = 3;
+    CACHED_SPLASH = 4;
+    STREAM = 5;
+}

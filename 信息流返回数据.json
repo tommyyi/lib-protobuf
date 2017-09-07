@@ -1,0 +1,472 @@
+{
+  "errno": 0,
+  "sid": "358b2d9f10b67cca7ba6b3bf55c258aa",
+  "data": {
+    "version": "v1",
+    "host": "merger76",
+    "res": [
+      {
+        "f": "人民网",
+        "u": "http:\/\/sh.qihoo.com\/mob\/transcoding?url=http%3A%2F%2Ffawen.news.so.com%2Fc164182b729c3ed31cbb0220bd01cbfa&check=4a5e72a102d966df&uid=189ef7594f2562f453e153014b292881&sign=ex%5Fd1a5ec7d&sv=1&templetctl=7&360newsdetail=1&hsitetype=1&ucheck=96b123c5af03376e49ed6792f19700af&hscmt=1",
+        "a": "h",
+        "rawurl": "http:\/\/fawen.news.so.com\/c164182b729c3ed31cbb0220bd01cbfa",
+        "ucheck": "96b123c5af03376e49ed6792f19700af",
+        "t": "习近平会见卢森堡首相贝泰尔",
+        "r": "efc2946e240863bc",
+        "c": "international",
+        "cicon": "http:\/\/p0.qhimg.com\/t016439e8645342090c.png",
+        "p": "1497479749",
+        "m": "e85b0cbebae8f40329ed902d593b43133f4ffa25",
+        "i": "",
+        "j": "",
+        "x": "0",
+        "h": "0",
+        "in": "",
+        "refer": "",
+        "idx": "1",
+        "type": "new_top",
+        "cmt_num": "0",
+        "index": "1",
+        "ntag": "",
+        "rot": "0",
+        "s": "t",
+        "source": "uullq101_base_0,uullq101_base,,nbbs_0:1",
+        "showtime": "1497513879",
+        "display": {
+          "time": "1",
+          "from": "1",
+          "fromicon": "1",
+          "cicon": "0",
+          "cmt": "0"
+        },
+        "webext": {
+          "relate_api": "http:\/\/m.look.360.cn\/relate?sign=ex_d1a5ec7d&wid=189ef7594f2562f453e153014b292881&url=http%3A%2F%2Ffawen.news.so.com%2Fc164182b729c3ed31cbb0220bd01cbfa&refer=list&rel_pos=0&ser=0&a_id=0&b_id=0&f=json&hsitetype=1&hscmt=1&templetctl=7&version=113&device=0&sv=1&c=relate&apiflag=open"
+        }
+      },
+      {
+        //来源，列表页展示用， dislike功能的来源展示；
+        "f": "北青网",
+        //url
+        "u": "https:\/\/t.ynet.cn\/360\/5527210.html?360feed",
+        //数据类型a字段
+        //对于不在规定范围类的字段，客户端务必做丢弃处理
+        //a = "g"; //热门
+        //a = "l"; //推荐
+        //a = "h"; //普通
+        //a = "t"; //置顶
+        //a = "a"; //推广
+        "a": "h",
+        //原始url
+        "rawurl": "https:\/\/t.ynet.cn\/360\/5527210.html?360feed",
+        //用户验证串
+        "ucheck": "9d5e93118ae50018e72f22b4eab67478",
+        //标题
+        "t": "实拍性工作者背后的无奈，一天接客30次，自述“真的不想干了”",
+//        rptid消重用,客户端可以不care
+        "r": "b69a972a25f1112e",
+//        新闻类型
+        "c": "social",
+        "cicon": "http:\/\/p0.qhimg.com\/t01701fe329261eefc0.png",
+//        新闻时间
+        "p": "1497498533",
+//        校验码
+        "m": "c717dc7c11c1f1b03fe6c443a0f98ced5f6b8577",
+        //图片， 多张图按|分隔
+        //和style组合使用。
+        //style=1时，i是原始图片，需要裁剪出大图样式格式新闻；
+        //没有style时，根据i的图片个数， 出单图（只有一张图）或3图（大于等于3张图）样式
+        //没有i时，显示无图模式
+        "i": "http:\/\/p1.qhimgs4.com\/dmfd\/182_136_\/t010808f89d936ea98c.jpg?size=480x336|http:\/\/p0.qhimgs4.com\/dmfd\/182_136_\/t01c84953adb3b763c5.jpg?size=480x305|http:\/\/p1.qhimgs4.com\/dmfd\/182_136_\/t0182083684a7db2335.jpg?size=480x310|http:\/\/p1.qhimgs4.com\/dmfd\/182_136_\/t01153743e1778432df.jpg?size=480x321",
+//        推荐理由
+        "j": "社会;迈阿密|实拍|闲暇时间|背后|她说|自述",
+        "x": "0",
+        "h": "0",
+        "in": "",
+        "refer": "",
+        "type": "newgood",
+        "recalltag": "tsocial__1704__992__1690368",
+        "recalltag_pos": "162__1",
+        "city_label": "",
+//        评论数
+        "cmt_num": "6",
+//        dislike的关键词展示
+        "filter": "30次|性工作者|接客",
+        "fkws": "性工作者|30次|接客",
+//        文章来源ICON
+        "fromicon": "",
+        "fword": "",
+        "gzhid": "2779550729",
+        "mcmt_num": "6",
+        "ntag": "ksocial_30次;csocial_P:社会:卖淫:皮条客;ksocial_性工作者;tsocial;m_ad89b7a750504f544eca104822397c50;ksocial_接客;",
+        "ptid": "a5729",
+        "pv": "364324",
+        "rot": "1245",
+        "rpt": "b69a972a25f1112e",
+//        新闻类型， t：文本，p：图集，v：老视频， g：gif，y：新版视频，q：趣图。
+//        如果是v或者g或者y，就显示为大图视频模式
+//        如果是其他情况，就根据i的情况来
+//        i为空：无图模式
+//        i包含1张图片，右图模式
+//        i包含3张图片，3图模式
+        "s": "t",
+        "sex_score": "10",
+        "source": "nbbn_call_L:262,test_filter_V28,disu_label,nbbn_call_L:311,fts1,sex8,mass_vulgar,nbbn_csocial_L:78,nbbn_csocial_L:75,vulgar,nbbn_csocial_3:社会:48:2,nbbn_csocial_4:社会:1:89,sexc,sexf,normal_op,weak,multi,nbbn_csocial_P:社会:卖淫:皮条客,sts0,manual_vulgar,nbbn_csocial_L:65,nbbn_call_L:379,social,nbbn_csocial_P:社会:卖淫:皮条客,nbbn_ksocial_30次,nbbn_ksocial_性工作者,nbbn_ksocial_接客,nbbn_m_ad89b7a750504f544eca104822397c50,nbbn_tsocial,,nbbc_tsocial,nbbr_tsocial__1704__992__1690368,tag,tagt_01000,uullq101_base_0,uullq101_base,,nbbs_0:2",
+        "stag": "社会",
+        "zmid": "sq_2779550729",
+//        显示时间，在lasttime的基础上随机增加1~10分钟。
+        "showtime": "1497513879",
+        "zmt": {
+          "id": "2779550729",
+          "name": "北青网",
+          "pic": "",
+          "textimg": "http:\/\/p0.qhimgs4.com\/t01c84953adb3b763c5.jpg?size=480x305"
+        },
+//        展现元素
+//      {“time”:”1”, “from”:”1”, “fromicon”:”1”,”cmt”:”1”}， # 字符串, 时间、来源、来源icon、评论是否展现， 为1则展示；与attr字段联动
+        "display": {
+          "time": "1",
+          "from": "1",
+          "fromicon": "1",
+          "cicon": "0",
+          "cmt": "1"
+        },
+        "webext": {
+          "relate_api": "http:\/\/m.look.360.cn\/relate?sign=ex_d1a5ec7d&wid=189ef7594f2562f453e153014b292881&url=https%3A%2F%2Ft.ynet.cn%2F360%2F5527210.html%3F360feed&refer=list&rel_pos=0&ser=0&a_id=0&b_id=0&f=json&version=113&device=0&sv=1&c=relate&apiflag=open"
+        }
+      },
+      {
+        "f": "观察者",
+        "u": "http:\/\/sh.qihoo.com\/mob\/transcoding?url=http%3A%2F%2Fwww.guancha.cn%2Flocal%2F2017_06_15_413443.shtml&check=38df91382292f86c&uid=189ef7594f2562f453e153014b292881&sign=ex%5Fd1a5ec7d&sv=1&templetctl=7&360newsdetail=1&hsitetype=1&ucheck=42f33daac20354804c415b605493328a&hscmt=1",
+        "a": "g",
+        "rawurl": "http:\/\/www.guancha.cn\/local\/2017_06_15_413443.shtml",
+        "ucheck": "42f33daac20354804c415b605493328a",
+        "t": "台湾名嘴再次大放厥词 竟称台湾三个月可以造原子弹",
+        "r": "976f73edc4fb66c5",
+        "c": "fun",
+        "cicon": "http:\/\/p0.qhimg.com\/t0173a44ffe5396e08a.png",
+        "p": "1497506838",
+        "m": "22b64f9fa6bacdf45b3289dd3d5eb507865f95b1",
+        "i": "http:\/\/p8.qhimg.com\/dmfd\/182_136_70\/t0127a070cdd2b9e0c4.webp",
+        "j": "娱乐;再次|台湾|观察者|胡忠信|徐喆|北韩",
+        "x": "0",
+        "h": "0",
+        "in": "",
+        "refer": "",
+        "idx": "1",
+        "type": "hot",
+        "city_label": "",
+        "cmt_num": "0",
+        "fast": "1",
+        "filter": "台湾名嘴|原子弹|核武",
+        "fkws": "台湾名嘴|原子弹|核武",
+        "fword": "",
+        "index": "1",
+        "mcmt_num": "0",
+        "ntag": "",
+        "ptid": "a4855",
+        "pv": "0",
+        "rot": "0",
+        "rpt": "976f73edc4fb66c5",
+        "s": "t",
+        "sex_score": "0",
+        "source": "normal_op,sts3,weak,black,fts1,fun,qgc,hotfull,thot_base,uullq101_base_0,uullq101_base,,nbbs_0:3",
+        "stag": "娱乐",
+        "showtime": "1497513879",
+        "display": {
+          "time": "1",
+          "from": "1",
+          "fromicon": "1",
+          "cicon": "0",
+          "cmt": "0"
+        },
+        "attr": [
+          {
+            "name": "hot",
+            "pos": "2",
+            "content": "热",
+            "color": "ff7070",
+            "isdisplay": "1",
+            "isclick": "1",
+            "direct": "1|newhot"
+          }
+        ],
+        "webext": {
+          "relate_api": "http:\/\/m.look.360.cn\/relate?sign=ex_d1a5ec7d&wid=189ef7594f2562f453e153014b292881&url=http%3A%2F%2Fwww.guancha.cn%2Flocal%2F2017_06_15_413443.shtml&refer=list&rel_pos=0&ser=0&a_id=0&b_id=0&f=json&hsitetype=1&hscmt=1&templetctl=7&version=113&device=0&sv=1&c=relate&apiflag=open"
+        }
+      },
+      {
+        "f": "最懂男人心",
+        "u": "http:\/\/sh.qihoo.com\/mob\/transcoding?url=http%3A%2F%2Fzm.news.so.com%2F23075d254675a941d2ba297d242fc30a&check=ac23a047a23f1007&uid=189ef7594f2562f453e153014b292881&sign=ex%5Fd1a5ec7d&sv=1&templetctl=7&360newsdetail=1&articlety=zmt&hsitetype=1&ucheck=dc27f2230c54764a55046261004e42a1&hscmt=1",
+        "a": "h",
+        "rawurl": "http:\/\/zm.news.so.com\/23075d254675a941d2ba297d242fc30a",
+        "ucheck": "dc27f2230c54764a55046261004e42a1",
+        "t": "色狼看出三个女人在洗澡，你是色狼还是色狼还是色狼??",
+        "r": "03e8eec113330218",
+        "c": "social",
+        "cicon": "http:\/\/p0.qhimg.com\/t01701fe329261eefc0.png",
+        "p": "1497505135",
+        "m": "c8d55e9b24b3780eccd71bc7a31d9179e468a4b",
+        "i": "http:\/\/p1.qhimgs4.com\/dmfd\/182_136_\/t01299a944714b908c6.jpg?size=487x343|http:\/\/p0.qhimgs4.com\/dmfd\/182_136_\/t01a431f2e2542a4d85.jpg?size=371x398|http:\/\/p0.qhimgs4.com\/dmfd\/182_136_\/t01af2476e5a11791a6.jpg?size=401x275",
+        "j": "社会;洗澡",
+        "x": "0",
+        "h": "0",
+        "in": "",
+        "refer": "",
+        "type": "newgood",
+        "recalltag": "tsocial__1704__946__1611984",
+        "recalltag_pos": "162__2",
+        "city_label": "",
+        "cmt_num": "0",
+        "filter": "色狼|三个女人",
+        "fkws": "色狼|三个女人",
+        "fromicon": "http:\/\/p3.qhimg.com\/dmfd\/128_128_80\/t013f7280f28ebdeb3d.jpg",
+        "fword": "",
+        "gzhid": "1914607650",
+        "mcmt_num": "0",
+        "ntag": "ksocial_色狼;ksocial_三个女人;csocial_P:社会:偷拍:如厕;csocial_P:社会:猥琐男:色狼;tsocial;m_884d6f574dab41b5470d0ad58601a616;",
+        "ptid": "a5754|a5895",
+        "pv": "4403",
+        "rot": "1092",
+        "rpt": "03e8eec113330218",
+        "s": "t",
+        "scat": [
+          {
+            "dis": "犯罪",
+            "clk": "ssocial_犯罪"
+          }
+        ],
+        "sex_score": "1",
+        "source": "multi,nbbn_csocial_3:社会:4:219,nbbn_csocial_P:社会:偷拍:如厕,mass_vulgar,nbbn_csocial_L:36,normal_op,sts1,fts1,test_filter_V28,disu_label,nbbn_csocial_L:48,nbbn_call_L:311,sexamb,wx2open,social,nbbn_call_L:256,nbbn_csocial_L:4,nbbn_csocial_4:社会:4:142:1,nbbn_csocial_P:社会:猥琐男:色狼,nbbn_call_L:166,nbbn_csocial_P:社会:偷拍:如厕,nbbn_csocial_P:社会:猥琐男:色狼,nbbn_ksocial_三个女人,nbbn_ksocial_色狼,nbbn_m_884d6f574dab41b5470d0ad58601a616,nbbn_tsocial,,nbbc_tsocial,nbbr_tsocial__1704__946__1611984,tag,tagt_01000,uullq101_base_0,uullq101_base,,nbbs_0:4",
+        "stag": "社会|犯罪",
+        "zmid": "1914607650",
+        "showtime": "1497513879",
+        "zmt": {
+          "id": "1914607650",
+          "name": "最懂男人心",
+          "pic": "http:\/\/p3.qhimg.com\/dmfd\/128_128_80\/t013f7280f28ebdeb3d.jpg",
+          "textimg": "http:\/\/p0.qhimgs4.com\/t01a431f2e2542a4d85.jpg?size=371x398"
+        },
+        "display": {
+          "time": "1",
+          "from": "1",
+          "fromicon": "1",
+          "cicon": "0",
+          "cmt": "0"
+        },
+        "webext": {
+          "relate_api": "http:\/\/m.look.360.cn\/relate?sign=ex_d1a5ec7d&wid=189ef7594f2562f453e153014b292881&url=http%3A%2F%2Fzm.news.so.com%2F23075d254675a941d2ba297d242fc30a&refer=list&rel_pos=0&ser=0&a_id=0&b_id=0&f=json&hsitetype=1&hscmt=1&templetctl=7&version=113&device=0&sv=1&c=relate&apiflag=open"
+        }
+      },
+      {
+        "f": "中国青年网",
+        "u": "http:\/\/api.look.360.cn\/jump?url=http%3A%2F%2Ft%2Em%2Eyouth%2Ecn%2Ftransfer%2F360xxl%2Furl%2F3g%2Eyouth%2Ecn%2Frdzx%2F201706%2Ft20170615%5F10080033%2Ehtm&token=1474b6607",
+        "a": "h",
+        "rawurl": "http:\/\/t.m.youth.cn\/transfer\/360xxl\/url\/3g.youth.cn\/rdzx\/201706\/t20170615_10080033.htm",
+        "ucheck": "c5fbaf53fbfc0b6d0b1c0f858b432cae",
+        "t": "马来西亚空军一架飞机失联 当局启动搜救任务",
+        "r": "4790e0adcafe1bbc7e5ca0d20ec96979",
+        "c": "domestic",
+        "cicon": "http:\/\/p0.qhimg.com\/t01c7a467f7262aadda.png",
+        "p": "1497509791",
+        "m": "cf61f68569781f003c864fb838bb525642eb41d3",
+        "i": "http:\/\/p2.qhimg.com\/dmfd\/182_136_70\/t01c3c80a52b30a3699.webp",
+        "j": ";",
+        "x": "0",
+        "h": "0",
+        "in": "",
+        "refer": "",
+        "idx": "2",
+        "type": "tag_boomUse",
+        "city_label": "",
+        "cmt_num": "3",
+        "fast": "1",
+        "filter": "",
+        "fkws": "",
+        "fromicon": "",
+        "fword": "",
+        "mcmt_num": "3",
+        "ntag": "",
+        "ptid": "",
+        "pv": "617237",
+        "rot": "157",
+        "rpt": "4790e0adcafe1bbc7e5ca0d20ec96979",
+        "s": "t",
+        "source": "normal_op,domestic,tag_boomUse,uullq101_base_0,uullq101_base,,nbbs_0:5",
+        "stag": "",
+        "showtime": "1497513879",
+        "display": {
+          "time": "1",
+          "from": "1",
+          "fromicon": "1",
+          "cicon": "0",
+          "cmt": "1"
+        },
+        "webext": {
+          "relate_api": "http:\/\/m.look.360.cn\/relate?sign=ex_d1a5ec7d&wid=189ef7594f2562f453e153014b292881&url=http%3A%2F%2Ft.m.youth.cn%2Ftransfer%2F360xxl%2Furl%2F3g.youth.cn%2Frdzx%2F201706%2Ft20170615_10080033.htm&refer=list&rel_pos=0&ser=0&a_id=0&b_id=0&f=json&version=113&device=0&sv=1&c=relate&apiflag=open"
+        }
+      },
+      {
+        "f": "失眠的困惑",
+        "u": "http:\/\/sh.qihoo.com\/mob\/transcoding?url=http%3A%2F%2Fzm.news.so.com%2F5ac9d7128cd66e0d09acfbf5f955a87b&check=24960136aa00a00a&uid=189ef7594f2562f453e153014b292881&sign=ex%5Fd1a5ec7d&sv=1&templetctl=7&360newsdetail=1&articlety=zmt&hsitetype=1&ucheck=c498ecd3cff2e1c84e32f1bcd12376a4&hscmt=1",
+        "a": "h",
+        "rawurl": "http:\/\/zm.news.so.com\/5ac9d7128cd66e0d09acfbf5f955a87b",
+        "ucheck": "c498ecd3cff2e1c84e32f1bcd12376a4",
+        "t": "夫妻性爱中哪些是高难度的性爱姿势?",
+        "r": "011eff3192f3eed2",
+        "c": "health",
+        "cicon": "http:\/\/p0.qhimg.com\/t0130d4be4ef0edac75.png",
+        "p": "1497447414",
+        "m": "a6f8330c71ccb10517699128a16d6c667a465c81",
+        "i": "http:\/\/p2.qhimgs4.com\/dmfd\/182_136_\/t01e708f555a57ab468.jpg?size=400x294|http:\/\/p0.qhimgs4.com\/dmfd\/182_136_\/t01ce5d3a553df92f8f.jpg?size=400x400|http:\/\/p2.qhimgs4.com\/dmfd\/182_136_\/t01521e4679be7a7720.jpg?size=400x400|http:\/\/p2.qhimgs4.com\/dmfd\/182_136_\/t01db2a526fa6d41ae8.jpg?size=400x400",
+        "j": "健康;高难度|性爱|做爱|夫妻性爱|性爱姿势|后进式",
+        "x": "0",
+        "h": "0",
+        "in": "",
+        "refer": "",
+        "type": "newgood",
+        "recalltag": "thealth__1685__739__1245215",
+        "recalltag_pos": "178__1",
+        "city_label": "",
+        "cmt_num": "3",
+        "filter": "",
+        "fkws": "",
+        "fromicon": "http:\/\/p0.qhimg.com\/dmfd\/128_128_80\/t011ba46eceb953cfbe.jpg",
+        "fword": "",
+        "gzhid": "1914665468",
+        "mcmt_num": "3",
+        "ntag": "a1914665468_1;thealth;m_c79e51aeb7323263cd278e148ccc9b11;chealth_P:健康:保健操:拉筋;chealth_P:健康:勃起:射精;",
+        "ptid": "a4342|a4308",
+        "pv": "1021816",
+        "rot": "892",
+        "rpt": "011eff3192f3eed2",
+        "s": "t",
+        "sex_score": "41",
+        "source": "test_filter_V28,nbbn_chealth_P:健康:勃起:射精,nbbn_call_L:343,fts0,sex8,nbbn_chealth_L:21,mass_porn,vulgar,nbbn_call_L:119,health,wx2open,nbbn_chealth_4:健康:38:4,nbbn_chealth_P:健康:保健操:拉筋,sexc,sexf,normal_op,disu_label,weak,nbbn_chealth_L:32,nbbn_chealth_L:13,multi,sts0,nbbn_chealth_3:健康:38:4,nbbn_call_L:221,nbbn_a1914665468_1,nbbn_chealth_P:健康:保健操:拉筋,nbbn_chealth_P:健康:勃起:射精,nbbn_m_c79e51aeb7323263cd278e148ccc9b11,nbbn_thealth,,nbbc_thealth,nbbr_thealth__1685__739__1245215,tag,tagt_01000,uullq101_base_0,uullq101_base,,nbbs_0:6",
+        "stag": "健康",
+        "zmid": "1914665468",
+        "showtime": "1497513879",
+        "zmt": {
+          "id": "1914665468",
+          "name": "失眠的困惑",
+          "pic": "http:\/\/p0.qhimg.com\/dmfd\/128_128_80\/t011ba46eceb953cfbe.jpg",
+          "textimg": "http:\/\/p0.qhimgs4.com\/t01ce5d3a553df92f8f.jpg?size=400x400"
+        },
+        "display": {
+          "time": "1",
+          "from": "1",
+          "fromicon": "1",
+          "cicon": "0",
+          "cmt": "1"
+        },
+        "webext": {
+          "relate_api": "http:\/\/m.look.360.cn\/relate?sign=ex_d1a5ec7d&wid=189ef7594f2562f453e153014b292881&url=http%3A%2F%2Fzm.news.so.com%2F5ac9d7128cd66e0d09acfbf5f955a87b&refer=list&rel_pos=0&ser=0&a_id=0&b_id=0&f=json&hsitetype=1&hscmt=1&templetctl=7&version=113&device=0&sv=1&c=relate&apiflag=open"
+        }
+      },
+      {
+        "f": "中国青年网",
+        "u": "http:\/\/sh.qihoo.com\/mob\/transcoding?url=http%3A%2F%2Fd.youth.cn%2Fsk%2F201705%2Ft20170504_9663872.htm&check=380c49c61cd2345b&uid=189ef7594f2562f453e153014b292881&sign=ex%5Fd1a5ec7d&sv=1&templetctl=7&360newsdetail=1&hsitetype=1&ucheck=06110f5920dc30421a9de96464fa038f&hscmt=1",
+        "a": "h",
+        "rawurl": "http:\/\/d.youth.cn\/sk\/201705\/t20170504_9663872.htm",
+        "ucheck": "06110f5920dc30421a9de96464fa038f",
+        "t": "7月1日起驾考新增科目五? 多地交警辟谣",
+        "r": "6c46f0c1ac7070cf",
+        "c": "social",
+        "cicon": "http:\/\/p0.qhimg.com\/t01701fe329261eefc0.png",
+        "p": "1493881800",
+        "m": "c09015a1e74b7aa3642c355d8886159736ea4dd9",
+        "i": "http:\/\/p1.qhimgs4.com\/dmfd\/182_136_\/t019f913b66a770abab.jpg?size=350x421",
+        "j": "社会;交警|辟谣|新增|谣言|科目",
+        "x": "0",
+        "h": "0",
+        "in": "",
+        "refer": "",
+        "idx": "3",
+        "type": "tag_boomUse",
+        "city_label": "",
+        "cmt_num": "120",
+        "fast": "1",
+        "filter": "驾考",
+        "fkws": "驾考",
+        "fword": "",
+        "mcmt_num": "114",
+        "ntag": "",
+        "ptid": "",
+        "pv": "0",
+        "rot": "0",
+        "rpt": "6c46f0c1ac7070cf",
+        "s": "t",
+        "sex_score": "0",
+        "source": "normal_op,sts3,fts3,social,tag_boomUse,uullq101_base_0,uullq101_base,,nbbs_0:7",
+        "stag": "社会",
+        "showtime": "1497513879",
+        "display": {
+          "time": "1",
+          "from": "1",
+          "fromicon": "1",
+          "cicon": "0",
+          "cmt": "1"
+        },
+        "webext": {
+          "relate_api": "http:\/\/m.look.360.cn\/relate?sign=ex_d1a5ec7d&wid=189ef7594f2562f453e153014b292881&url=http%3A%2F%2Fd.youth.cn%2Fsk%2F201705%2Ft20170504_9663872.htm&refer=list&rel_pos=0&ser=0&a_id=0&b_id=0&f=json&hsitetype=1&hscmt=1&templetctl=7&version=113&device=0&sv=1&c=relate&apiflag=open"
+        }
+      },
+      {
+        "f": "999个减肥方法",
+        "u": "http:\/\/sh.qihoo.com\/mob\/transcoding?url=http%3A%2F%2Fzm.news.so.com%2F91ff285ac3cb66b13175f43c9cc78212&check=81b2571e632a4a5b&uid=189ef7594f2562f453e153014b292881&sign=ex%5Fd1a5ec7d&sv=1&templetctl=7&360newsdetail=1&articlety=zmt&hsitetype=1&ucheck=65f0dcbe24da844ab67d2f1791db4335&hscmt=1",
+        "a": "h",
+        "rawurl": "http:\/\/zm.news.so.com\/91ff285ac3cb66b13175f43c9cc78212",
+        "ucheck": "65f0dcbe24da844ab67d2f1791db4335",
+        "t": "女性小便后该不该用纸巾擦，其实很多女性都没做对!",
+        "r": "44d2e0e63cee6d3a",
+        "c": "health",
+        "cicon": "http:\/\/p0.qhimg.com\/t0130d4be4ef0edac75.png",
+        "p": "1497499376",
+        "m": "1be4407510b12b4670e6f15172bda3fc8604bcfa",
+        "i": "http:\/\/p1.qhimgs4.com\/dmfd\/182_136_\/t01a954ba129ac3a5b4.jpg?size=467x312",
+        "j": "健康;小便|外阴|卫生纸|女性|自净作用|纸巾",
+        "x": "0",
+        "h": "0",
+        "in": "",
+        "refer": "",
+        "type": "newgood",
+        "recalltag": "thealth__1685__712__1199720",
+        "recalltag_pos": "178__2",
+        "city_label": "",
+        "cmt_num": "0",
+        "filter": "阴道|乳杆菌",
+        "fkws": "阴道|乳杆菌",
+        "fromicon": "http:\/\/p1.qhimg.com\/dmfd\/128_128_80\/t0131ab687f41da8a6d.jpg",
+        "fword": "",
+        "gzhid": "1914730970",
+        "mcmt_num": "0",
+        "ntag": "chealth_P:健康:直肠:腹腔;khealth_阴道;khealth_乳杆菌;m_d0191c7f4407ad2bcda8efa7c9c68808;thealth;chealth_P:全类:盆腔:腹腔;chealth_P:健康:卵巢:私处;call_P:全类:盆腔:腹腔;",
+        "ptid": "a695|a4348|a4259",
+        "pv": "48379",
+        "rot": "748",
+        "rpt": "44d2e0e63cee6d3a",
+        "s": "t",
+        "sex_score": "14",
+        "source": "nbbn_chealth_P:健康:直肠:腹腔,mass_vulgar,test_filter_V28,nbbn_call_L:337,fts1,sex8,nbbn_chealth_L:20,nbbn_chealth_L:21,vulgar,health,wx2open,nbbn_chealth_P:全类:盆腔:腹腔,nbbn_call_L:388,nbbn_call_P:全类:盆腔:腹腔,nbbn_chealth_P:健康:卵巢:私处,sexc,sexf,normal_op,weak,nbbn_chealth_4:健康:28:15,nbbn_chealth_3:健康:25:11,nbbn_chealth_L:36,multi,sts0,nbbn_call_L:87,nbbn_call_P:全类:盆腔:腹腔,nbbn_chealth_P:健康:卵巢:私处,nbbn_chealth_P:健康:直肠:腹腔,nbbn_chealth_P:全类:盆腔:腹腔,nbbn_khealth_乳杆菌,nbbn_khealth_阴道,nbbn_m_d0191c7f4407ad2bcda8efa7c9c68808,nbbn_thealth,,nbbc_thealth,nbbr_thealth__1685__712__1199720,tag,tagt_01000,uullq101_base_0,uullq101_base,,nbbs_0:8",
+        "stag": "健康",
+        "zmid": "1914730970",
+        "showtime": "1497513879",
+        "zmt": {
+          "id": "1914730970",
+          "name": "999个减肥方法",
+          "pic": "http:\/\/p1.qhimg.com\/dmfd\/128_128_80\/t0131ab687f41da8a6d.jpg",
+          "textimg": "http:\/\/p1.qhimgs4.com\/t01a954ba129ac3a5b4.jpg?size=467x312"
+        },
+        "display": {
+          "time": "1",
+          "from": "1",
+          "fromicon": "1",
+          "cicon": "0",
+          "cmt": "0"
+        },
+        "webext": {
+          "relate_api": "http:\/\/m.look.360.cn\/relate?sign=ex_d1a5ec7d&wid=189ef7594f2562f453e153014b292881&url=http%3A%2F%2Fzm.news.so.com%2F91ff285ac3cb66b13175f43c9cc78212&refer=list&rel_pos=0&ser=0&a_id=0&b_id=0&f=json&hsitetype=1&hscmt=1&templetctl=7&version=113&device=0&sv=1&c=relate&apiflag=open"
+        }
+      }
+    ]
+  }
+}

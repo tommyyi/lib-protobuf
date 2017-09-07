@@ -1,0 +1,14 @@
+syntax = "proto2";
+option java_package = "net.angrycode.bean";
+package bean;
+
+import "AdType.proto";
+import "Position.proto";
+import "Size.proto";
+
+message AdSlot {
+    required string id = 1;
+    required AdType adtype = 2;
+    required Position pos = 3;
+    repeated Size accepted_size = 4;
+}

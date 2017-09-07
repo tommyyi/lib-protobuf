@@ -1,0 +1,10 @@
+syntax = "proto2";
+option java_package = "net.angrycode.bean";
+package bean;
+enum Position {
+    TOP = 1;
+    BOTTOM = 2;
+    FLOW = 3;
+    MIDDLE = 4;
+    FULLSCREEN = 5;
+}

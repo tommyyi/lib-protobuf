@@ -1,0 +1,10 @@
+syntax = "proto2";
+option java_package = "net.angrycode.bean";
+package bean;
+enum ConnectionType {
+    CONN_UNKNOWN = 0;
+    WIFI = 1;
+    MOBILE_2G = 2;
+    MOBILE_3G = 3;
+    MOBILE_4G = 4;
+}
